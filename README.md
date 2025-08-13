@@ -1,4 +1,4 @@
-<p align="center"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="center"><img " src="https://lorenghoh.github.io/size-oscillation/build/c0dd2224ed6ea183718d17e7076f71ad.png" alt="lang image here" /></p>
 
 ## Gunho Loren Oh
 
