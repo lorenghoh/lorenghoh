@@ -1,4 +1,4 @@
-<p align="center"><img width="75%" src="https://lorenghoh.github.io/size-oscillation/build/c0dd2224ed6ea183718d17e7076f71ad.png" alt="lang image here" /></p>
+<p align="center"><img width="95%" src="https://lorenghoh.github.io/size-oscillation/build/c0dd2224ed6ea183718d17e7076f71ad.png" alt="lang image here" /></p>
 
 ## Gunho Loren Oh
 
@@ -7,3 +7,12 @@
 [Website](https://lorenghoh.github.io/) • [Github](https://github.com/lorenghoh) • [ORCID](https://orcid.org/0009-0002-2916-0350) • [Google Scholar](https://scholar.google.com/citations?user=IL-6ROIAAAAJ&hl=en) 
 
 I am a computational physicist specializing in numerical and statistical methods to study large-scale data. My research focuses on statistical analysis of high-resolution models and building statistical models describing the convective dynamics of the atmosphere.
+
+## Current Projects
+
+- Maintain and update high-resolution LES model of the atmosphere ([link](https://github.com/lorenghoh/sam-ubc))
+
+## Recent Projects
+
+- Physics-informed neural networks ([link](https://lorenghoh.github.io/2025-07-31-pinn/))
+- Estimation of periodicity using GP regression model ([link](https://lorenghoh.github.io/size-oscillation/))
