@@ -10,9 +10,11 @@ I am a computational physicist specializing in numerical and statistical methods
 
 ## Current Projects
 
-- Maintain and update high-resolution LES model of the atmosphere ([link](https://github.com/lorenghoh/sam-ubc))
+- Bayesian neural networks and time-series forecasting
+- Stochasitc model of shallow boundary-layer clouds
+- High-resolution LES model of the atmosphere ([link](https://github.com/lorenghoh/sam-ubc))
 
 ## Recent Projects
 
 - Physics-informed neural networks ([link](https://lorenghoh.github.io/2025-07-31-pinn/))
-- Estimation of periodicity using GP regression model ([link](https://lorenghoh.github.io/size-oscillation/))
+- Bayesian time-series analysis of noisy data ([link](https://lorenghoh.github.io/size-oscillation/))
